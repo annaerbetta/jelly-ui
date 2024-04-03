@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# jelly-ui
+TailwindCSS + Figma UI Kit for bootstrapping your projects.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introducing Jelly UI Kit: Bridging Design and Development
 
-## Available Scripts
+Jelly UI Kit is a comprehensive toolkit that seamlessly integrates Tailwind CSS code with Figma components, revolutionizing the workflow for designers and developers alike. By marrying the power of Figma's design capabilities with Tailwind CSS's utility-first approach, this UI kit offers a cohesive solution for building modern, responsive web applications with speed and precision.
 
-In the project directory, you can run:
+## Key Features:
 
-### `npm start`
+- Unified Design Language: With Jely UI Kit, designers and developers work within the same design language. Figma components mirror the class names and organization of Tailwind CSS, ensuring consistency and efficiency throughout the design and development process.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Token-Based Styling: Leveraging Tailwind CSS's token-based styling system, designers can easily apply and adjust design tokens within Figma, knowing that the changes will seamlessly translate into code. This synchronization streamlines collaboration and reduces the risk of inconsistencies between design and implementation.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Responsive Design Support: Jelly UI Kit empowers designers to create responsive layouts directly in Figma, aligning with Tailwind CSS's philosophy. Designers can preview how their designs will adapt to different screen sizes, enabling them to iterate and refine their designs with confidence.
 
-### `npm test`
+- Customizable Component Library: The UI kit comes equipped with a rich library of customizable Figma components, spanning from buttons and forms to navigation bars and cards. Each component is meticulously crafted to align with Tailwind CSS's design principles, offering flexibility and versatility for various design scenarios.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Interactive Prototyping: With Figma's prototyping capabilities, designers can create interactive prototypes that simulate user interactions and workflows. By combining Jelly UI Kit's design tokens and components with Figma's prototyping features, designers can effectively communicate their design concepts and validate user experiences before handing off to developers.
 
-### `npm run build`
+- Developer-Friendly Code Generation: Developers can seamlessly translate Figma designs into production-ready code using Tailwind CSS. With the consistency between Figma components and Tailwind CSS classes, developers can effortlessly implement designs with minimal manual adjustments, accelerating the development process.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Jelly UI Kit bridges the gap between design and development, empowering teams to collaborate efficiently and deliver exceptional web experiences. By harmonizing design tokens, components, and workflows, this UI kit fosters a cohesive design system that drives consistency, speed, and innovation in web development projects. 
