@@ -1,0 +1,14 @@
+/* src/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+    @font-face {
+      font-family: 'MuseoModerno';
+      font-style: normal;
+      font-weight: 900;
+      font-display: swap;
+      src: url(fonts/museomoderno/MuseoModerno-Black.woff2) format('woff2');
+    }
+  }
